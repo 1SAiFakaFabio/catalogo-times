@@ -1,0 +1,16 @@
+{
+  "name": "catalogo-times",
+  "version": "1.0.0",
+  "description": "Catálogo de times com Node.js, Express e EJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
